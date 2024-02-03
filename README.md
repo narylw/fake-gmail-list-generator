@@ -20,4 +20,4 @@ For Run It In Kali/Termux:
 
 > cd sms-spammer
 
-> go run sms.go
+> go run gmail.go
