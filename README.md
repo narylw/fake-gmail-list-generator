@@ -18,6 +18,6 @@ For Run It In Kali/Termux:
 
 > git clone https://github.com/narylw/fake-gmail-list-generator
 
-> cd sms-spammer
+> cd fake-gmail-list-generator
 
 > go run gmail.go
